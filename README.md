@@ -3,7 +3,7 @@
 I'm a software developer since 2013. Currently I'm a Java full stack developer at Ernesto Borges Advogados, graduated in Computer Science by Uniderp.
 
 - 💻 I'm currently working on web projects and automation tools that optimize clients' jobs 
-- 🤓 I’m learning SpringBoot
+- 🤓 I’m learning SpringBoot and React
 - 📫 Contact e-mail: eduranzzani@gmail.com
 
 ### Below are my social networks, feel free to contact me or leave a message
