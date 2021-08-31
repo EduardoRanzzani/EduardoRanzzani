@@ -17,6 +17,9 @@ I'm a software developer since 2013. Currently I'm a Java full stack developer a
 <a href="https://t.me/EduhRanzzani" target="_blank">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+<a href="https://api.whatsapp.com/send?phone=556792466935">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
 ### Git usage status:
 [![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=eduardoranzzani&theme=dark&show_icons=true&count_private=true)](https://github.com/eduardoranzzani)
