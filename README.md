@@ -8,13 +8,13 @@ I'm a software developer since 2013. Currently I'm a Java full stack developer a
 
 ### Below are my social networks, feel free to contact me or leave a message
 
-<a href="https://www.linkedin.com/in/eduardoranzzani">
+<a href="https://www.linkedin.com/in/eduardoranzzani" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>  
-<a href="https://www.instagram.com/eduhranzzani/?hl=pt-br/">
+<a href="https://www.instagram.com/eduhranzzani/?hl=pt-br/" target="_blank">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-<a href="https://t.me/EduhRanzzani">
+<a href="https://t.me/EduhRanzzani" target="_blank">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
